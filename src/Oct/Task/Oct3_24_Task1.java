@@ -1,6 +1,6 @@
-package Oct.ex_03102024;
+package Oct.Task;
 
-public class Lab002 {
+public class Oct3_24_Task1 {
     public static void main (String [] args){
         System.out.println("Table of 10 -> ");
         //Single line comments

@@ -1,6 +1,6 @@
-package Oct.ex_03102024;
+package Oct.Task;
 
-public class Lab003 {
+public class Oct3_24_Task2 {
     public static void main (String [] args)
     {
         int c = 4 + 3;
