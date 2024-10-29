@@ -1,4 +1,4 @@
-package Oct.ex_28102924;
+package Oct.ex_28102024;
 
 public class Lab035_StringFunctions {
     public static void main(String[] args) {
