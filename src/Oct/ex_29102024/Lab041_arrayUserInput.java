@@ -13,8 +13,6 @@ public class Lab041_arrayUserInput {
             System.out.println("Enter the number->");
             nums[i] = sc.nextInt();
         }
-
-
     }
 }
 
