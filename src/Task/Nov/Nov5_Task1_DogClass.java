@@ -1,4 +1,4 @@
-package Task;
+package Task.Nov;
 
 public class Nov5_Task1_DogClass {
     String color;
