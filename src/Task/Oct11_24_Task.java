@@ -1,6 +1,4 @@
-package Oct.Task;
-
-import javax.swing.plaf.synth.SynthTextAreaUI;
+package Task;
 
 public class Oct11_24_Task {
     public static void main(String[] args) {

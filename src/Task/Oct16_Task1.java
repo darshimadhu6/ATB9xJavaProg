@@ -1,4 +1,4 @@
-package Oct.Task;
+package Task;
 
 import java.util.Scanner;
 

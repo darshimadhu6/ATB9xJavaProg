@@ -1,4 +1,4 @@
-package Oct.Task;
+package Task;
 
 public class Oct29_Task1_method2 {
     public static void main(String[] args) {

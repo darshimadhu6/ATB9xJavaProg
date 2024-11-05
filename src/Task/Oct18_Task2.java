@@ -1,4 +1,4 @@
-package Oct.Task;
+package Task;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
