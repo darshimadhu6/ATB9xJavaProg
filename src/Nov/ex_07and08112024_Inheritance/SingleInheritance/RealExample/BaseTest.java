@@ -1,4 +1,4 @@
-package Nov.ex_07112024_Inheritance.SingleInheritance.RealExample;
+package Nov.ex_07and08112024_Inheritance.SingleInheritance.RealExample;
 
 public class BaseTest {
     BaseTest(){

@@ -1,4 +1,4 @@
-package Nov.ex_07112024_Inheritance.SingleInheritance.Example1;
+package Nov.ex_07and08112024_Inheritance.SingleInheritance.Example1;
 
 public class Lab055_Single_Inheritance {
     public static void main(String[] args) {

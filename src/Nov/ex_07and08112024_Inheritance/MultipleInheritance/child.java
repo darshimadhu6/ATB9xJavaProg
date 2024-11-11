@@ -1,4 +1,4 @@
-package Nov.ex_07112024_Inheritance.MultipleInheritance;
+package Nov.ex_07and08112024_Inheritance.MultipleInheritance;
 
 public class child //extends Father,Mother
 {

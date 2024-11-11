@@ -1,4 +1,4 @@
-package Nov.ex_07112024_Inheritance.SingleInheritance.Example2;
+package Nov.ex_07and08112024_Inheritance.SingleInheritance.Example2;
 
 public class Python extends Programming {
     void print() {
