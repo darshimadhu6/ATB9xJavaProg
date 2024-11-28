@@ -1,4 +1,4 @@
-package Nov.ex_21112024_LinkedList;
+package Nov.ex_21112024_List;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

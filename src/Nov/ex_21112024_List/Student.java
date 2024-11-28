@@ -1,4 +1,4 @@
-package Nov.ex_21112024_LinkedList;
+package Nov.ex_21112024_List;
 
 public class Student {
     private String name;
