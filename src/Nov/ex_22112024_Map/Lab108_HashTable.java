@@ -18,5 +18,4 @@ public class Lab108_HashTable {
                 System.out.println(e.nextElement());
             }
         }
-    }
 }
